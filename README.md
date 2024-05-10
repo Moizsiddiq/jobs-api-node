@@ -41,7 +41,3 @@ Create a .env file in the root directory with the following content:
 - **CORS:** Enables Cross-Origin Resource Sharing to control which domains can access your API.
 - **XSS-Clean:** Protects against Cross-Site Scripting (XSS) attacks by sanitizing user input.
 - **Rate Limiting:** Limits the number of requests to protect against abuse.
-
-## Contributing
-We welcome contributions! If you find a bug or have a feature request, please open an issue or submit a pull request.
-"# jobs-api-node" 
