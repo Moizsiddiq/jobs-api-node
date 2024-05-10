@@ -36,8 +36,4 @@ Create a .env file in the root directory with the following content:
 - `PUT /api/v1/jobs/:id`: Update a job by ID.
 - `DELETE /api/v1/jobs/:id`: Delete a job by ID.
 
-## Security Measures
-- **Helmet:** Helps secure your Express application by setting various HTTP headers.
-- **CORS:** Enables Cross-Origin Resource Sharing to control which domains can access your API.
-- **XSS-Clean:** Protects against Cross-Site Scripting (XSS) attacks by sanitizing user input.
-- **Rate Limiting:** Limits the number of requests to protect against abuse.
+
